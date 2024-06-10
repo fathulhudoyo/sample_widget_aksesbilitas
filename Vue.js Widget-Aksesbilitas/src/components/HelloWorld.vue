@@ -63,7 +63,7 @@ export default {
       const script_1 = document.createElement("script");
       script_1.setAttribute(
         "src",
-       "https://code.responsivevoice.org/responsivevoice.js?key=N0bzbTAK"
+       "https://code.responsivevoice.org/responsivevoice.js?key=fbcUgt6M"
       );
        
       script_1.async = true;
