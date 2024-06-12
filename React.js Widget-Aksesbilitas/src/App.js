@@ -27,7 +27,7 @@ function My_content() {
 }
 function App() {
 
-  return <UseMyWidget element={My_content()}  url={"http://localhost/app/widget_disabilitas_ctx.js"}  url_responsive_voice={"https://code.responsivevoice.org/responsivevoice.js?key=N0bzbTAK"} />;
+  return <UseMyWidget element={My_content()}  url={"https://web.animemusic.us/widget_disabilitas.js"}  url_responsive_voice={"https://code.responsivevoice.org/responsivevoice.js?key=N0bzbTAK"} />;
 }
 
 export default (App);
