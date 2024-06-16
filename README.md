@@ -20,4 +20,4 @@
   
 # Source Code  Widget Aksesbilitas Version 2.0 (info.go.id)
 
-- [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js)
+- [Github Widget-Aksesbilitas Version 2.0](https://github.com/fathulhudoyo/Fitur_Disabilitas/tree/2.0)
