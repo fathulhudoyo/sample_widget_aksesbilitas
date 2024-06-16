@@ -1,7 +1,7 @@
-## Documentation Sample Widget Aksesbilitas (info.go.id)
+## Documentation Sample Widget Aksesbilitas Version 1.0 (info.go.id)
 
 
-## Tampilan Gambar Widget Aksesbilitas (info.go.id)
+## Tampilan Gambar Widget Aksesbilitas Version 1.0 (info.go.id)
 
 <p align="center">
  <img width="45%" height="250" src="https://raw.githubusercontent.com/fathulhudoyo/sample_widget_aksesbilitas/1.0/ScreenShot%20Widget/SS1.jpg" alt="widget_ss1">&emsp;&emsp;
@@ -14,9 +14,9 @@
   <img width="45%" height="250" src="https://raw.githubusercontent.com/fathulhudoyo/sample_widget_aksesbilitas/1.0/ScreenShot%20Widget/SS4.jpg" alt="widget_ss4"></span>
 </p>
 
-## Info Source Code Widget Aksesbilitas (info.go.id)
+## Info Source Code Widget Aksesbilitas Version 1.0 (info.go.id)
 
   Untuk Source Code Dapat Di Klik Link Di Bawah Ini, Di Sarankan Menggunakan Link Ini [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js) ( https://web.animemusic.us/widget_disabilitas.js ) Agar Mendapatkan Pembaharuan Otomatis
   
-# Source Code
+# Source Code Widget Aksesbilitas Version 1.0 (info.go.id)
 - [Github Widget-Aksesbilitas Version 1.0](https://github.com/fathulhudoyo/Fitur_Disabilitas/tree/1.0)
