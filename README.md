@@ -16,7 +16,7 @@
 
 ## Info Source Code Widget Aksesbilitas (info.go.id)
 
-  Untuk Source Code Dapat Di Klik Link Di Bawah Ini, Di Sarankan Menggunakan Link Ini [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js)  https://web.animemusic.us/widget_disabilitas.js Agar Mendapatkan Pembaharuan Otomatis
+  Untuk Source Code Dapat Di Klik Link Di Bawah Ini, Di Sarankan Menggunakan Link Ini [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js) ( https://web.animemusic.us/widget_disabilitas.js ) Agar Mendapatkan Pembaharuan Otomatis
   
 # Source Code
 - [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js)
