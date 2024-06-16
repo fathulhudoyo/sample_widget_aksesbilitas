@@ -19,4 +19,4 @@
   Untuk Source Code Dapat Di Klik Link Di Bawah Ini, Di Sarankan Menggunakan Link Ini [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js) ( https://web.animemusic.us/widget_disabilitas.js ) Agar Mendapatkan Pembaharuan Otomatis
   
 # Source Code
-- - [Github Widget-Aksesbilitas Version 1.0](https://github.com/fathulhudoyo/Fitur_Disabilitas/tree/1.0)
+- [Github Widget-Aksesbilitas Version 1.0](https://github.com/fathulhudoyo/Fitur_Disabilitas/tree/1.0)
