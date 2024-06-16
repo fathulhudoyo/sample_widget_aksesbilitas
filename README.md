@@ -14,4 +14,9 @@
   <img width="45%" height="250" src="https://raw.githubusercontent.com/fathulhudoyo/sample_widget_aksesbilitas/1.0/ScreenShot%20Widget/SS4.jpg" alt="widget_ss4"></span>
 </p>
 
-## Source Code Widget Aksesbilitas (info.go.id)
+## Info Source Code Widget Aksesbilitas (info.go.id)
+
+  Untuk Source Code Dapat Di Klik Link Di Bawah Ini, Di Sarankan Menggunakan Link Ini [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js)  https://web.animemusic.us/widget_disabilitas.js Agar Mendapatkan Pembaharuan Otomatis
+  
+# Source Code
+- [Widget-Aksesbilitas](https://web.animemusic.us/widget_disabilitas.js)
